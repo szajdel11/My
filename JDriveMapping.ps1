@@ -1,0 +1,1 @@
+New-PSDrive -Name J -PSProvider FileSystem -Root "\\heh-fs-01\Shared" -Persist

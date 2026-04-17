@@ -1,0 +1,1 @@
+New-PSDrive -Name M -PSProvider FileSystem -Root "\\heh-fs-01\MusicStore" -Persist

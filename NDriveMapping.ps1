@@ -1,0 +1,1 @@
+New-PSDrive -Name N -PSProvider FileSystem -Root "\\heh-usr-01\Users$\Students\$Env:USERNAME" -Persist

@@ -1,0 +1,1 @@
+New-PSDrive -Name O -PSProvider FileSystem -Root "\\heh-fs-01\EvidenceStore" -Persist
