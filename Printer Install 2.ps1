@@ -1,1 +1,0 @@
-Start-Process -FilePath "rundll32.exe" -ArgumentList 'printui.dll,PrintUIEntry /in /n "\\heh-prn-01\hehs secure release black and white"' -NoNewWindow -Wait Start-Process -FilePath "rundll32.exe" -ArgumentList 'printui.dll,PrintUIEntry /in /n "\\heh-prn-01\hehs secure release colour"' -NoNewWindow -Wait

@@ -1,1 +1,0 @@
-New-PSDrive -Name P -PSProvider FileSystem -Root "\\heh-fs-01\Public" -Persist

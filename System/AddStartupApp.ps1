@@ -1,0 +1,1 @@
+New-ItemProperty -Path "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" -Name "Caffeine" -Value '"C:\Program Files\Caffeine\caffeine64.exe" -startoff' -PropertyType String -Force

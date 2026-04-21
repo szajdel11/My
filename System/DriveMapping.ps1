@@ -1,0 +1,1 @@
+New-PSDrive -Name "Letter" -PSProvider FileSystem -Root "\\SERVERFILEPATH" -Persist

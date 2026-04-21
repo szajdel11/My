@@ -1,1 +1,0 @@
-New-PSDrive -Name S -PSProvider FileSystem -Root "\\heh-sims-01\simsroot" -Persist

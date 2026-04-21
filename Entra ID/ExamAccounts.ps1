@@ -11,7 +11,7 @@
 # PARAMETERS
 # -------------------------
 
-$Count      = 2
+$Count      = 16
 $Domain     = "hatchend.harrow.sch.uk"
 $Prefix     = "ExamAccount"
 $OutputPath = "C:\Temp\ExamAccounts.csv"

@@ -1,5 +1,9 @@
 $Language = "en-GB"
 $GeoId = "0xf2"
+#------------------------------------------------------
+#ONLY IF NEEDED
+#Install-Language -Language $Language -CopyToSettings -Confirm:$false
+#------------------------------------------------------
 Set-PreferredLanguage -Language $Language
 Set-SystemPreferredUILanguage -Language $Language
 Set-Culture $Language
